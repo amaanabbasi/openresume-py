@@ -1,0 +1,119 @@
+{
+    "name":"Mohammad Amaan Abbasi",
+    "email":"amaanabbasi99@gmail.com",
+    "phone":"(747) 366-2336",
+    "url":"linkedin.com/in/amaanabbasi/",
+    "project":"Mohammad Amaan Abbasi",
+    "SUMMARY":[
+       [
+          "Experienced Python Developer with expertise in AWS/Azure cloud. Skilled in developing, programming, and",
+          "coding IT solutions to enhance Customer Experience applications. Proficient in documentation, unit testing,",
+          "peer code reviews, automation and maintenance of applications. Extensive experience with technical",
+          "grooming, Docker, Kubernetes, Jenkins, Visual Studio Code, Git and continuous deployment. Excellent",
+          "communication and collaboration skills with experience in working with cross functional teams"
+       ]
+    ],
+    "work_experience":[
+       {
+          "company":"VARAHA, Python Developer Jun",
+          "job_title":"Developer",
+          "duration":"Jun 2022 - Jun 2023",
+          "description":[
+             " Collaborated directly with the CTO to create architecture, develop pipelines, and plan user stories, which enhanced my project planning skills and risk assessment capabilities..",
+             " Developed dynamic web applications using Django, resulting in a 20% improvement in user experience and accessibility metrics.",
+             " Designed and implemented REST APIs to enable seamless data communication and interaction.",
+             " Utilized QGIS and Geo Django to create geospatial features, enhancing location-based applications and contributing to a 25% boost in geographic functionality.",
+             " Streamlined processes by automating tasks, leading to a notable 90% reduction in Time-to-Live (TTL).",
+             " Integrated voice calling functionality into Django Admin, improving communication channels."
+          ]
+       },
+       {
+          "company":"JOHN DEERE INDIA, Python Developer Nov",
+          "job_title":"Developer",
+          "duration":"Nov 2021 - Jun 2022",
+          "description":[
+             " Assisted the project manager with user story creation and planning, facilitating structured and efficient project workflows.",
+             " Communicated regularly with the .NET and DevOps teams to ensure smooth completion of tasks and seamless integration across different system components.",
+             " Spearheaded the migration of .NET code to Python, resulting in a 25% improvement in code maintainability and a 20% boost in overall system performance.",
+             " Reverse-engineered old .NET APIs and recreated Python equivalents using Flask blueprints, contributing to a 70% increase in code maintainability.",
+             " Migrated the encryption module from .NET to Python, enhancing the security framework and integration within the system.",
+             " Deployed Lambda functions and Elastic Container Service on AWS cloud, optimizing scalability and achieving a 35% reduction in response time for critical functions."
+          ]
+       },
+       {
+          "company":"INCUPAD, Full Stack Developer Sep",
+          "job_title":"Developer",
+          "duration":"Sep 2020 - Sep 2021",
+          "description":[
+             " Managed the setup and deployment of EC2 instances, ensuring efficient application hosting and achieving a 25% reduction in deployment time.",
+             " Oversaw user permissions and database management using RDS, optimizing data security.",
+             " Implemented Django-based web applications and REST APIs, utilizing Django Rest Framework.",
+             " Leveraged S3, Workspaces, and Security Groups, enhancing the development environment with an 80% improvement in data storage efficiency and a 90% increase in overall development security.",
+             " Integrated Google's Places API and Firebase Cloud Messaging services using Django FCM."
+          ]
+       }
+    ],
+    "SKILLS":[
+       [
+          "Python (5 years), AWS EC2/ ECS/ S3/DMS/ SCT (4 years), CI/CD pipelines - Jenkins, C/C++, Linux,",
+          "OpenCV, Keras, Git, Gitlab, Apache2, Django REST, ReactJS, Node, Unit Testing, .NET",
+          "●",
+          "Skilled in Django, Python, and Flask for monolithic, distributed & microservices architecture..",
+          "●",
+          "Solid understanding of Unit testing based on Arrange Act Assert pattern.",
+          "●",
+          "Proficient in utilizing AWS services for cloud-based applications and infrastructure.",
+          "●",
+          "Knowledgeable in implementing CI/CD pipelines for automated testing and deployment.",
+          "●",
+          "Experienced in developing projects using Raspberry Pi for embedded systems and IoT solutions.",
+          "●",
+          "Familiar with Cuda,OpenCV, and Keras for database management and machine learning tasks."
+       ]
+    ],
+    "education":[
+       {
+          "school":"WESTCLIFF UNIVERSITY",
+          "degree":"Master",
+          "duration":"2023",
+          "description":[
+             " IT Project Management: Acquired skills in project planning, execution, and delivery within time and budget constraints. Familiarity with project management methodologies and tools.",
+             " Managing Information Systems & Technology: Developed an understanding of information systems management, including database management, network architecture, and system security.",
+             " Management Information Security: Gained expertise in assessing and mitigating security risks, implementing security policies, and ensuring compliance with regulatory standards."
+          ]
+       }
+    ],
+    "projects":[
+       {
+          "project_title":"JAMIA HAMDARD UNIVERSITY",
+          "duration":"Jan 2021 - Jun 2021",
+          "description":[
+             
+          ]
+       },
+       {
+          "project_title":"Proficient in implementing computer vision and image recognition techniques to enable autonomous driving capabilities in ground vehicles",
+          "description":[
+             " Skilled in utilizing Raspberry Pi, RC car, and camera setups for developing IoT solutions in real-world applications.",
+             " Experienced in integrating Python programming language with OpenCV and Keras frameworks to process image data and train deep learning models.",
+             " Capable of developing frameworks for effective data collection and model training to enhance the performance and safety of autonomous vehicles.",
+             " Knowledgeable in utilizing networking protocols such as sockets for seamless communication between vehicle components and external systems."
+          ]
+       }
+    ],
+    "other":[
+       {
+          "description":[
+             
+          ]
+       },
+       {
+          "description":[
+             " Implemented state-of-the-art techniques in segmentation and recognition to enhance the accuracy and speed of the detection pipeline.",
+             " Utilized deep learning frameworks such as Keras and TensorFlow for training models and optimizing performance.",
+             " Addressed challenges in dataset collection by employing a naive approach, minimizing data requirements while maximizing model effectiveness.",
+             " Provided a scalable solution for automating license plate recognition, suitable for deployment in various environments like campuses, airports, and shopping complexes for intelligent surveillance systems."
+          ]
+       }
+    ]
+ }
